@@ -1,1 +1,1 @@
-# passwordmanager
+The password manager I created securely stores and manages user credentials. Users can add their email, password, and associated website, which are stored securely in a file. The "Password Generator" button creates strong, random passwords, while the "Search" button retrieves stored credentials quickly. By inputting a website and clicking "Search," users can see the associated email and password without manually searching. This tool combines convenience and security, improving the management of multiple online accounts
